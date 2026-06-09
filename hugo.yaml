@@ -1,6 +1,36 @@
 baseURL: https://example.org/
 locale: en-us
 title: Anand Rajasekar
+mainsections: ["posts"]
+pagination:
+  disableAliases: false
+  pagerSize: 3
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Bookshelf
+          url: bookshelf
+          weight: 2
+        - name: Search
+          url: search/
+          weight: 2
+        - name: Tags
+          url: tags/
+          weight: 4
+        - name: "Docs (Wiki)"
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
+  - path: github.com/tgagor/hugo-PaperMod-bookshelf
