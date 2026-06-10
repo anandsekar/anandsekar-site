@@ -1,30 +1,14 @@
 ---
 title: Designing Your Life
 sub_title: How to Build a Well-Lived, Joyful Life
-date: 2026-06-09
+date: 2024-12-26
 authors:
   - Bill Burnett
   - Dave Evans
 categories:
   - Book
 tags:
-  - Biography
-  - Business
-  - Fantasy
-  - Finance
-  - Graphic Novel
-  - Leadership
-  - Management
-  - Mystery
-  - Politics
-  - Pop-sci
-  - Psychology
-  - Security
-  - Sci-fi
-  - Science
-  - Sociology
-  - Technology
-  - Trading
+  - Self Help
 book_authors:
   - Bill Burnett
   - Dave Evans
@@ -41,15 +25,8 @@ draft: false
   author="William Burnett (Consulting professor of design), Bill Burnett, David John Evans, Dave Evans"
   cover=images/book-cover.webp
   link1="https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321"
-  link2=""
+  link2="https://www.goodreads.com/book/show/61130244-designing-your-life"
   link3=""
   link4=""
 >}}
 
-
-<!--
-To generate covers, I use imagemagick's `convert` command:
-```bash
-convert book-orig.jpg -resize 625x625^ -gravity Center book-cover.webp
-```
--->
