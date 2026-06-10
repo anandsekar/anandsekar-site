@@ -32,7 +32,7 @@ book_rating: 5
 cover:
   image: images/book-cover.webp
   hidden: true
-draft: true
+draft: false
 ---
 
 {{< book
