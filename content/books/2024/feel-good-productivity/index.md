@@ -29,4 +29,14 @@ draft: false
   link4=""
 >}}
 
-The book explores productivity through the lens of personal alignment, emphasizing that true productivity stems from work that is meaningful and fulfilling. While the author's success in blogging about productivity might lead to some skepticism, the concepts of mindful/mindless work and identifying the next actionable step resonate. However, the book suffers from an excess of information and a lack of cohesive focus, feeling more like a compilation of random research than a well-defined guide.
+### Productivity and Personal Alignment
+
+The book explores productivity through the lens of personal alignment, emphasizing that true productivity stems from work that is meaningful and fulfilling.
+
+### What Resonates
+
+While the author's success in blogging about productivity might lead to some skepticism, the concepts of mindful/mindless work and identifying the next actionable step resonate.
+
+### Final Verdict
+
+However, the book suffers from an excess of information and a lack of cohesive focus, feeling more like a compilation of random research than a well-defined guide.
