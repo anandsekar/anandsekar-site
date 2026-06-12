@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Self help
+  - Self Help
 book_authors:
   - Robin Sharma
 book_rating: 4
