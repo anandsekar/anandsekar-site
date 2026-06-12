@@ -4,7 +4,7 @@ title: Anand Rajasekar
 mainsections: ["posts"]
 pagination:
   disableAliases: false
-  pagerSize: 3
+  pagerSize: 50
 
 languages:
   en:

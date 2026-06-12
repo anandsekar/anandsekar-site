@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Business
 book_authors:
   - Patrick Lencioni
 book_rating: 5
@@ -32,21 +32,15 @@ draft: false
 
 **Back to Fundamentals: A Review of The Three Signs of a Miserable Job**
 
-Patrick Lencioni’s The Three Signs of a Miserable Job strikes a particular chord in today’s fast-paced corporate environment. We often become so focused on execution that we forget the absolute fundamental truths of management regarding how we treat and motivate our teams.
+Patrick Lencioni’s *The Three Signs of a Miserable Job* strikes a particular chord in today’s fast-paced corporate environment. We often become so focused on execution that we forget the absolute fundamental truths of management regarding how we treat and motivate our teams.
 
 Lencioni identifies three specific factors that lead to dissatisfaction in the workplace, regardless of the industry or pay scale:
 
-### 1. Anonymity
+- **1. Anonymity:** This occurs when a manager sees an employee merely as a resource rather than a human being. It manifests as a lack of interest in their life, interests, and personal situation. People cannot be fulfilled in their work if they are not known and cared for as unique individuals by the person they report to.
 
-This occurs when a manager sees an employee merely as a resource rather than a human being. It manifests as a lack of interest in their life, interests, and personal situation. People cannot be fulfilled in their work if they are not known and cared for as unique individuals by the person they report to.
+- **2. Irrelevance:** Irrelevance strikes when employees cannot see where they fit into the bigger picture. It is particularly common in roles that are not customer-facing, making it difficult for the individual to trace exactly how they add value. Everyone needs to know that their job matters to someone.
 
-### 2. Irrelevance
-
-Irrelevance strikes when employees cannot see where they fit into the bigger picture. It is particularly common in roles that are not customer-facing, making it difficult for the individual to trace exactly how they add value. Everyone needs to know that their job matters to someone.
-
-### 3. Immeasurement (Lack of Measurement)
-
-Immeasurement is the inability of employees to assess their own contribution. Without an objective yardstick to gauge their progress and success, they are forced to rely on the subjective opinions of others, which drains motivation.
+- **3. Immeasurement (Lack of Measurement):** Immeasurement is the inability of employees to assess their own contribution. Without an objective yardstick to gauge their progress and success, they are forced to rely on the subjective opinions of others, which drains motivation.
 
 ### Personal Reflections on Management
 
