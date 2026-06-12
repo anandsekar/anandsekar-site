@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Business
 book_authors:
   - Robert I. Sutton
 book_rating: 2

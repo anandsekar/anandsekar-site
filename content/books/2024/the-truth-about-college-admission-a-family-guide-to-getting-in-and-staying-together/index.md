@@ -8,7 +8,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - College
 book_authors:
   - Brennan E Barnard
   - Rick Clark

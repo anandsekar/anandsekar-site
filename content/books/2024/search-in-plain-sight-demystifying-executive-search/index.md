@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Business
 book_authors:
   - Somer Hackley
 book_rating: 0

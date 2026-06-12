@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Biography
 book_authors:
   - Walter Isaacson
 book_rating: 5

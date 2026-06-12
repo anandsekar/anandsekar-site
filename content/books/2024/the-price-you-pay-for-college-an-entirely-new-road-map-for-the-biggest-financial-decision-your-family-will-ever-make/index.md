@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - College
 book_authors:
   - Ron Lieber
 book_rating: 5

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Home Organization
 book_authors:
   - Weldon Owen
 book_rating: 2

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Biography
 book_authors:
   - Britney Spears
 book_rating: 5

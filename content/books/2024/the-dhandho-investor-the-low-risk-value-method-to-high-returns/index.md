@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Finance
 book_authors:
   - Mohnish Pabrai
 book_rating: 0

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Health
 book_authors:
   - Jessie Inchauspé
 book_rating: 0

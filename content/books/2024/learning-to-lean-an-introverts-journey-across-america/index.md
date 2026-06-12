@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Memoir
 book_authors:
   - Dave Blundell
 book_rating: 5

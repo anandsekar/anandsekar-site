@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Productivity
 book_authors:
   - Ali  Abdaal
 book_rating: 3

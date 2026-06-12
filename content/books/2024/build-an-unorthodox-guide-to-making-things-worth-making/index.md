@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Business
 book_authors:
   - Tony Fadell
 book_rating: 5

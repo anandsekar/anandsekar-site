@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Finance
 book_authors:
   - John C. Bogle
 book_rating: 5

@@ -8,7 +8,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Philosophy
 book_authors:
   - Héctor  García
   - Francesc Miralles

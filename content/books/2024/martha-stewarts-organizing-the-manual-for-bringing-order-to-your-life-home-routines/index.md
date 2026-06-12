@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Home Organization
 book_authors:
   - Martha Stewart
 book_rating: 2

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Psychology 
 book_authors:
   - Gretchen Rubin
 book_rating: 0

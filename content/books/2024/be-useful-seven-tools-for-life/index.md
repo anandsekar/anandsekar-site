@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Biography
 book_authors:
   - Arnold Schwarzenegger
 book_rating: 0

@@ -8,7 +8,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Communication
 book_authors:
   - Casey Wilson
   - Jessica St. Clair

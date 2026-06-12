@@ -9,7 +9,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Business
 book_authors:
   - Reid Hoffman
   - June Cohen

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Self help
 book_authors:
   - Guy Kawasaki
 book_rating: 3
