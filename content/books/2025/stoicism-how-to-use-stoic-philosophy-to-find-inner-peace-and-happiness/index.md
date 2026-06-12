@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Philosophy
 book_authors:
   - Jason Hemlock
 book_rating: 4
@@ -30,17 +30,14 @@ draft: false
 
 <!-- REVIEW START -->
 
-Jason Hemlock's book on Stoicism serves as an excellent, gentle introduction to the ancient philosophy, though it is framed more as a practical self-help guide than a purely academic text. For readers new to the subject, particularly those seeking guidance for their current life circumstances, this book is a great read that leaves one intrigued and wanting to learn more.
+Jason Hemlock's book *Stoicism* serves as an excellent, gentle introduction to the ancient philosophy, though it is framed more as a practical self-help guide than a purely academic text. For readers new to the subject, particularly those seeking guidance for their current life circumstances, this book is a great read that leaves one intrigued and wanting to learn more.
 
 The book effectively highlights the core of Stoic thought, particularly the Four Cardinal Virtues:
 
-### Wisdom (good decision-making)
-
-### Justice (fairness and proper treatment of others)
-
-### Courage (facing adversity with reason)
-
-### Temperance/Moderation (self-control and discipline)
+- **Wisdom** (good decision-making)
+- **Justice** (fairness and proper treatment of others)
+- **Courage** (facing adversity with reason)
+- **Temperance/Moderation** (self-control and discipline)
 
 The emphasis on these four virtues offers a profoundly refreshing perspective on how to live a good life. It's particularly fascinating to note the striking similarity between these values and the four cardinal virtues emphasized in Freemasonry (Temperance, Fortitude, Prudence, and Justice), a connection that adds an intriguing layer of depth to the philosophical concepts.
 

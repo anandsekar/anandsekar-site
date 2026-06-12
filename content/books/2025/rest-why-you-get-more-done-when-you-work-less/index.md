@@ -30,7 +30,7 @@ draft: false
 
 <!-- REVIEW START -->
 
-Rest: Why You Get More Done When You Work Less by Alex Soojung-Kim Pang is a compelling book that redefines the relationship between work and rest. Instead of viewing rest as the opposite of work, Pang argues it is an essential partner in achieving a high-quality, productive life. The book is well-supported by historical examples and scientific research, which effectively illustrate the core concepts.
+*Rest: Why You Get More Done When You Work Less* by Alex Soojung-Kim Pang is a compelling book that redefines the relationship between work and rest. Instead of viewing rest as the opposite of work, Pang argues it is an essential partner in achieving a high-quality, productive life. The book is well-supported by historical examples and scientific research, which effectively illustrate the core concepts.
 
 What makes this book stand out is its broader perspective. It isn't just a guide to becoming more productive at work; it's a guide to creating a more engaged and creative life. Pang shows how all aspects of life—work, rest, and hobbies—blend together to enhance overall well-being and output.
 

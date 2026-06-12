@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Technology
 book_authors:
   - Will Larson
 book_rating: 5

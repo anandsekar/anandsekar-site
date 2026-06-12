@@ -9,7 +9,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Spirituality
 book_authors:
   - Shoukei Matsumoto
   - Ian Samhammer
@@ -34,7 +34,7 @@ draft: false
 
 <!-- REVIEW START -->
 
-I started reading Shoukei Matsumoto's A Monk's Guide to A Clean House & Mind out of a simple desire to tidy my home, but what I discovered was a surprisingly therapeutic and profound little book.
+I started reading Shoukei Matsumoto's *A Monk's Guide to A Clean House & Mind* out of a simple desire to tidy my home, but what I discovered was a surprisingly therapeutic and profound little book.
 
 While I wasn't looking for a detailed instruction manual for cleaning, I thoroughly enjoyed the way the author, a Buddhist monk, describes the activity. Matsumoto beautifully interweaves the physical act of cleaning with the resulting internal mind state. He effectively shows how sweeping away dust and scrubbing grime is a tangible practice for clearing away mental clutter and "worldly cares."
 

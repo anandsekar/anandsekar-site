@@ -9,7 +9,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Communication
 book_authors:
   - George Lakoff
   - Howard Dean
@@ -34,9 +34,9 @@ draft: false
 
 <!-- REVIEW START -->
 
-George Lakoff's Don't Think of an Elephant is a fascinating and insightful read that provides a masterclass in the art of political communication. The book's central concept of frames—the underlying mental structures that shape our worldview—is both powerful and eye-opening. Lakoff brilliantly distills the core values of progressives and conservatives, demonstrating how these values influence the way each side frames political issues. For anyone looking to understand the mechanics of political messaging, the first half of the book is a must-read.
+George Lakoff's *Don't Think of an Elephant* is a fascinating and insightful read that provides a masterclass in the art of political communication. The book's central concept of frames—the underlying mental structures that shape our worldview—is both powerful and eye-opening. Lakoff brilliantly distills the core values of progressives and conservatives, demonstrating how these values influence the way each side frames political issues. For anyone looking to understand the mechanics of political messaging, the first half of the book is a must-read.
 
-While the latter half of the book focuses heavily on progressive values and how to apply the principles of framing to their specific political agenda, it remains a valuable part of the overall work. Though my primary interest was in the general theory of framing, this section still offered a practical application of Lakoff's ideas. .
+While the latter half of the book focuses heavily on progressive values and how to apply the principles of framing to their specific political agenda, it remains a valuable part of the overall work. Though my primary interest was in the general theory of framing, this section still offered a practical application of Lakoff's ideas.
 
 Ultimately, this book is an excellent resource for anyone interested in politics, regardless of their own political leanings. By revealing how language and framing shape our understanding, Lakoff provides a tool for both progressives and conservatives to better understand not only their opponents, but also themselves. It's a compelling and thought-provoking book that offers a pathway toward more effective communication.
 <!-- REVIEW END -->

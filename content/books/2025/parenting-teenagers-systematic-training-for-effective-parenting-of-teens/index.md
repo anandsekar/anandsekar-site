@@ -9,7 +9,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Parenting
 book_authors:
   - Don C. Dinkmeyer Sr.
   - Don C. Dinkmeyer Jr.
@@ -34,7 +34,7 @@ draft: false
 
 <!-- REVIEW START -->
 
-**Book Review: Parenting Teenagers by Don Dinkmeyer**
+**Parenting Teenagers by Don Dinkmeyer**
 
-I recently picked up Don Dinkmeyer’s Parenting Teenagers for a reread as I navigate the choppy waters of raising my second daughter, and its enduring value is more apparent than ever. This is not just theoretical psychology; it’s a refreshingly insightful and practical guide offering clear, actionable strategies to transform the parent-teen relationship from one of constant friction to one of mutual respect and understanding.
+I recently picked up Don Dinkmeyer’s *Parenting Teenagers* for a reread as I navigate the choppy waters of raising my second daughter, and its enduring value is more apparent than ever. This is not just theoretical psychology; it’s a refreshingly insightful and practical guide offering clear, actionable strategies to transform the parent-teen relationship from one of constant friction to one of mutual respect and understanding.
 <!-- REVIEW END -->

@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Philosophy
 book_authors:
   - Jonas Salzgeber
 book_rating: 4
@@ -30,21 +30,16 @@ draft: false
 
 <!-- REVIEW START -->
 
-**The Little Book of Stoicism by Jonas Salzgeber**
-
-Jonas Salzgeber's The Little Book of Stoicism serves as an accessible and practical guide to applying ancient philosophy in modern life. This book excels at distilling complex Stoic concepts into actionable principles, making it a valuable read for both newcomers and those familiar with the philosophy.
+Jonas Salzgeber's *The Little Book of Stoicism* serves as an accessible and practical guide to applying ancient philosophy in modern life. This book excels at distilling complex Stoic concepts into actionable principles, making it a valuable read for both newcomers and those familiar with the philosophy.
 
 ### The Central Principle: Living with Areté
 
 The most powerful takeaway from the book is the emphasis on living with Areté, or virtue. This core concept provides a moral compass for navigating life. The book clearly outlines the four cardinal Stoic virtues, which form the foundation of Areté:
 
-### 1. Wisdom (Prudent Deliberation)
-
-### 2. Justice (Fairness and Integrity)
-
-### 3. Courage (Facing fear and acting rightly)
-
-### 4. Self-Discipline (Inner Control and resisting temptation)
+- **1. Wisdom** (Prudent Deliberation)
+- **2. Justice** (Fairness and Integrity)
+- **3. Courage** (Facing fear and acting rightly)
+- **4. Self-Discipline** (Inner Control and resisting temptation)
 
 It's fascinating to note the parallels between these Stoic virtues and the four cardinal virtues emphasized in other traditions, such as the Freemason's focus on Temperance, Fortitude, Prudence, and Justice. This similarity highlights the universal and enduring nature of these ethical principles.
 
@@ -60,5 +55,5 @@ Among the 55 Stoic Practices the author elaborates on, one particularly effectiv
 
 While the section listing the 55 practices can feel verbose, it is also the book's strength. The breadth of content ensures that every reader, regardless of their current life stage or specific struggles, will find several practices that resonate deeply and offer immediate, practical value.
 
-The Little Book of Stoicism is a powerful reminder to live life to the fullest with Areté and to approach adversity with the serene, steady mind of equanimity.
+*The Little Book of Stoicism* is a powerful reminder to live life to the fullest with Areté and to approach adversity with the serene, steady mind of equanimity.
 <!-- REVIEW END -->

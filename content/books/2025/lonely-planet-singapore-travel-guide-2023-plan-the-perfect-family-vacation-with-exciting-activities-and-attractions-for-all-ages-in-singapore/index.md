@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Travel
 book_authors:
   - Robert Rodríguez
 book_rating: 4

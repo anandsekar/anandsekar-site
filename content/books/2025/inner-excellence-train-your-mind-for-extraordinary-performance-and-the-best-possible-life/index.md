@@ -7,7 +7,7 @@ authors:
 categories:
   - Book
 tags:
-  - Book
+  - Self Help
 book_authors:
   - Jim     Murphy
 book_rating: 4
